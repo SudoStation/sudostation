@@ -1,6 +1,5 @@
 ==================================================
-
-  LINUX ENVIRONMENT TO-DO-LIST | ARCHIVE:2025
+LINUX ENVIRONMENT TO-DO-LIST | ARCHIVE:2025
 
 
   Items in this document are arranged:
@@ -8,3 +7,28 @@
 
 ==================================================
 
+
+
+-----------------------------
+ARCHIVED 20 SEPTEMBER 2025
+
+  Sailfish Silica
+  HoloGM
+  Chimera
+  SteamGM
+  Hyprland (Window Manager)
+  Phosh
+  Plasma Mobile
+  Openbox (Window Manager)
+  Cosmic
+  SteamBP
+  XFce
+  LXDE
+  LXQt
+  Unity
+  Budgie
+  Plasma
+  MATE
+  Cinnamon
+  GNOME
+-----------------------------
