@@ -1,6 +1,5 @@
 ==================================================
-
-  LINUX DISTRO TO-DO-LIST | ARCHIVE:2025
+LINUX DISTRO TO-DO-LIST | ARCHIVE:2025
 
 
   Items in this document are arranged:
@@ -8,3 +7,37 @@
 
 ==================================================
 
+
+
+-----------------------------
+ARCHIVED 20 SEPTEMBER 2025
+
+  ChimeraOS
+  Manjaro Mobile
+  Bazzite
+  Artix Linux
+  Garuda Linux
+  SliTaz GNU/Linux
+  Red Hat Linux
+  SUSE Linux
+  SteamOS
+  SUSE Linux Enterprise
+  openSUSE
+  Ubuntu Unity
+  Ubuntu Cinnamon
+  Ubuntu (All flavours)
+  RHEL
+  Ubuntu Budgie
+  Ubuntu Studio
+  Lubuntu
+  Ubuntu MATE
+  Xubuntu
+  Kubuntu
+  Edubuntu
+  Arch Linux
+  Manjaro
+  Debian
+  Fedora
+  Linux Mint
+  Ubuntu
+-----------------------------
